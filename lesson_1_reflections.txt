@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+ We can differentiate b/w two files by checking the difference b/w the output given
+ by the diff command by manually skim through it.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+I think we can learn from previous version to not to repeat the same error twice.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros:- We can choose when to save your data and do it in a manageable way if done
+    in a right way.
+
+    Cons:- We have to be extra causious about picking up the commiting point otherwise
+    it will be worthless to try and commit the data at random points.
+    
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think Git is good for VCS system for code where as Google Docs is good for 
+    document related things such as journal,wikipedia as it have little or no relation
+    to the different files.As in Git, it is usually a good practice to compare files as they are depenedent on each other on many programming coding practices.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log can be used to see the commit that was saved while saving changes in the project.I can see when i made changes in my codebase and commit it.
+    git diff is used to see the diff b/w two commit logs.I can used it to check the changes that i made in my working Project and look up for errors.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Git can be used to check and compare the bug that was introduced by checking out the previous commit ID and by using git diff we can check where the changes
+    has made that cause the bug.So we have a lot more managable environment using git VCS.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use for my very first android Project.
