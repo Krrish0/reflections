@@ -18,13 +18,28 @@ made the changes in our repository.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Using staging area we can make sure that what changes we have made with
+respect to the working directory and the repository code and make sure 
+that we have one commit per logical change.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches are helpful when you want to create a different version of your project and you are not sure of whether it will work or not 
+in the future and you have to made some changes in the current projects to made that work.For example when you want to support
+different languages and doesn't want to make changes in your original project at that situation branch comes handy.
+
 How do the diagrams help you visualize the branch structure?
+
+Using Branch Structure of the git commit we get a visual view of the commit are saved and we know about the concept of rechability.
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Merging two branches that we can combine the two branch or two states add it to your main branch and create a commit to make it your master 
+branch. To specify more, you can say it is used to add changes of the branch to the main code in such a way that it not break the whole 
+project.
+To get a visual view of the branch and get a view of it's conceptual depths.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
