@@ -43,3 +43,8 @@ To get a visual view of the branch and get a view of it's conceptual depths.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Pros:Git Automatic merging helps when we want to merge files and they are entirely independent to each other.It done alot of complicated work for us and we don't have to take care of all the casualties along
+the way.
+Cons: We might have some areas where we have different version of code at same place.For Example, we have a function which is modified by two contributers and we might want to add the which is best for that moment.
+Hence, at this time where the doing it manually is the right way and we don't want it go for automatic merging as it leads to ambiguity and even break the working of the code.
